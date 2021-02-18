@@ -1,0 +1,230 @@
+,gare,lat,lon,max
+1,Roissy-CDG 2,49,2.57,1
+2,Agde,43.32,3.47,1
+3,Agen,44.2,0.62,1
+4,Aime - La Plagne,45.55,6.65,1
+5,Aix-en-Provence,43.45,5.32,1
+6,Aix-les-Bains,45.68,5.9,1
+7,Albertville,45.67,6.38,1
+8,Ancenis,47.37,-1.17,1
+9,Angers,47.47,-0.55,1
+10,Angoulême,45.65,0.17,1
+11,Annecy,45.9,6.12,1
+12,Annemasse,46.2,6.23,1
+13,Antibes,43.58,7.12,1
+14,Arcachon,44.67,-1.17,1
+15,Les Arcs - Draguignan,43.45,6.48,0
+16,Arles,43.68,4.63,1
+17,Arras,50.28,2.78,1
+18,Auray,47.67,-3,1
+19,Avignon-Centre,43.93,4.8,1
+20,Avignon,43.92,4.78,1
+21,Bar-le-Duc,48.77,5.17,1
+22,Bayonne,43.5,-1.47,1
+23,Beaune,47.02,4.85,1
+24,Belfort - Montbéliard,47.58,6.9,1
+25,Bellegarde,46.1,5.82,1
+26,Besançon-Viotte,47.23,6.02,0
+27,Besançon,47.3,5.95,1
+28,Béthune,50.52,2.63,1
+29,Béziers,43.33,3.22,1
+30,Biarritz,43.45,-1.53,1
+31,Bordeaux,44.82,-0.55,1
+32,Boulogne-Ville,50.72,1.6,1
+33,Bourg-en-Bresse,46.2,5.22,1
+34,Bourg-Saint-Maurice,45.62,6.77,1
+35,Brest,48.38,-4.48,1
+36,Calais - Fréthun,50.9,1.8,1
+37,Calais,50.95,1.85,1
+38,Cannes,43.55,7.02,1
+39,Carcassonne,43.22,2.35,1
+40,Chalon-sur-Saône,46.78,4.83,1
+41,Châlons-en-Champagne,48.95,4.35,1
+42,Chambéry,45.57,5.92,1
+43,Champagne-Ardenne,49.22,3.98,0
+44,Charleville-Mézières,49.77,4.72,1
+45,Châtellerault,46.82,0.55,1
+46,Cluses,46.05,6.58,1
+47,Colmar,48.07,7.33,1
+48,Le Creusot,46.77,4.5,1
+49,Le Croisic,47.28,-2.5,0
+50,Croix - Wasquehal,50.67,3.13,0
+51,Dax,43.72,-1.05,1
+52,Dijon,47.32,5.02,1
+53,Dol-de-Bretagne,48.53,-1.75,1
+54,Dole,47.08,5.48,1
+55,Douai,50.37,3.08,1
+56,Dunkerque,51.03,2.37,1
+57,Épinal,48.17,6.43,1
+58,Étaples - Le Touquet,50.52,1.63,1
+59,Évian-les-Bains,46.4,6.57,1
+60,Facture-Biganos,44.63,-0.97,1
+61,Forbach,49.18,6.9,0
+62,Frasne,46.85,6.15,0
+63,Le Futuroscope,46.67,0.37,0
+64,Grenoble,45.18,5.72,1
+65,Guingamp,48.55,-3.13,1
+66,Hazebrouck,50.72,2.53,1
+67,Hendaye,43.35,-1.78,1
+68,Hyères,43.1,6.12,1
+69,La Baule-Escoublac,47.28,-2.38,1
+70,Lamballe,48.47,-2.5,1
+71,Landerneau,48.45,-4.25,0
+72,Landry,45.57,6.73,1
+73,Lannion,48.72,-3.45,1
+74,Laval,48.07,-0.75,1
+75,Le Havre,49.48,0.12,1
+76,Lens,50.42,2.82,1
+77,Libourne,44.92,-0.23,1
+78,Lille-Europe,50.63,3.07,1
+79,Lille,50.63,3.07,0
+80,Lorraine,48.95,6.17,1
+81,Lorient,47.75,-3.37,1
+82,Lourdes,43.1,-0.03,1
+83,Lunéville,48.58,6.5,1
+84,Lyon-Part-Dieu,45.75,4.85,1
+85,Lyon,45.75,4.82,0
+86,Lyon-Saint-Exupéry,45.72,5.07,1
+87,Mâcon-Loché,46.28,4.77,1
+88,Mâcon,46.3,4.82,0
+89,Le Mans,47.98,0.18,1
+90,Mantes-la-Jolie,48.98,1.7,0
+91,Marne-la-Vallée,48.87,2.78,1
+92,Marseille,43.3,5.37,1
+93,Massy - Palaiseau,48.72,2.25,0
+94,Massy,48.72,2.25,1
+95,Menton,43.77,7.48,1
+96,Metz,49.1,6.17,1
+97,Meuse,48.97,5.27,1
+98,Miramas,43.58,5,1
+99,Modane,45.18,6.65,1
+100,Montauban-Ville-Bourbon,44.02,1.33,1
+101,Montbard,47.62,4.33,1
+102,Montélimar,44.55,4.73,1
+103,Montpellier,43.6,3.87,1
+104,Montpellier-Sud-de-France,43.58,3.92,0
+105,Morlaix,48.57,-3.83,1
+106,Mouchard,46.97,5.8,0
+107,Moûtiers - Salins,45.48,6.53,1
+108,Mulhouse,47.73,7.33,1
+109,Nancy,48.68,6.17,1
+110,Nantes,47.22,-1.53,1
+111,Narbonne,43.18,3,1
+112,Nice,43.7,7.25,1
+113,Niort,46.32,-0.45,1
+114,Nîmes,43.83,4.37,1
+115,Nurieux,46.18,5.52,0
+116,Orange,44.13,4.82,1
+117,Orthez,43.48,-0.77,1
+118,Paris-Est,48.87,2.35,1
+119,Paris-Lyon,48.83,2.37,1
+120,Paris-Montparnasse,48.83,2.32,1
+121,Paris,48.88,2.35,1
+122,Pau,43.28,-0.37,1
+123,Perpignan,42.68,2.87,1
+124,TGV Haute-Picardie,49.85,2.83,1
+125,Plouaret-Trégor,48.6,-3.47,0
+126,Poitiers,46.58,0.33,1
+127,Pornichet,47.27,-2.33,0
+128,Le Pouliguen,47.28,-2.43,0
+129,Quimper,47.98,-4.08,1
+130,Quimperlé,47.87,-3.55,1
+131,Rang-du-Fliers,50.42,1.65,1
+132,Redon,47.65,-2.08,1
+133,Reims,49.25,4.02,1
+134,Remiremont,48.02,6.6,1
+135,Rennes,48.1,-1.67,1
+136,Rethel,49.5,4.37,0
+137,La Rochelle-Ville,46.15,-1.13,1
+138,La Roche-sur-Yon,46.67,-1.43,1
+139,Rosporden,47.95,-3.83,1
+140,Roubaix,50.68,3.15,0
+141,Rouen,49.45,1.08,1
+142,Sablé,47.83,-0.33,1
+143,Les Sables-d'Olonne,46.5,-1.78,1
+144,Saint-Avre - La Chambre,45.35,6.3,0
+145,Saint-Brieuc,48.5,-2.77,1
+146,Saint-Dié-des-Vosges,48.28,6.95,1
+147,Saint-Étienne,45.43,4.4,1
+148,Saint-Gervais-les-Bains,45.9,6.7,1
+149,Saint-Jean-de-Luz,43.38,-1.65,1
+150,Saint-Jean de Maurienne,45.27,6.35,1
+151,Saint-Maixent,46.4,-0.2,1
+152,Saint-Malo,48.63,-2,1
+153,Saint-Michel - Valloire,45.22,6.47,1
+154,Saint-Nazaire,47.28,-2.2,1
+155,Saint-Pierre-des-Corps,47.38,0.72,1
+156,Saint-Raphaël,43.42,6.77,1
+157,Sallanches - C. - M.,45.93,6.63,1
+158,Sarrebourg,48.73,7.05,1
+159,Saumur,47.27,-0.07,1
+160,Saverne,48.73,7.35,1
+161,Sedan,49.68,4.92,1
+162,Sélestat,48.25,7.43,1
+163,Sète,43.4,3.68,1
+164,Strasbourg,48.58,7.73,1
+165,Surgères,46.1,-0.75,1
+166,Tarbes,43.23,0.07,1
+167,La Teste,44.63,-1.13,0
+168,Thionville,49.35,6.17,1
+169,Thonon-les-Bains,46.37,6.48,1
+170,Toulon,43.12,5.92,1
+171,Toulouse,43.6,1.45,1
+172,Tourcoing,50.72,3.17,1
+173,Tours,47.38,0.68,1
+174,Valence,44.98,4.97,1
+175,Valence-Ville,44.92,4.88,0
+176,Valenciennes,50.35,3.52,1
+177,Vannes,47.67,-2.75,1
+178,Vendôme,47.82,1.02,1
+179,Versailles,48.78,2.13,1
+180,Vitré,48.12,-1.2,1
+181,Vitry-le-François,48.72,4.58,1
+182,Les Aubrais,47.92,1.9,1
+183,Belfort,47.63,6.85,1
+184,Blois - Chambord,47.58,1.32,0
+185,Brive-la-Gaillarde,45.15,1.52,1
+186,Caen,49.17,-0.35,0
+187,Cambrai-Ville,50.17,3.23,0
+188,Châteauroux,46.8,1.7,1
+189,Cherbourg,49.63,-1.62,0
+190,Commercy,48.77,5.58,0
+191,Conflans-Fin-d'Oise,48.98,2.07,0
+192,Culoz,45.83,5.77,0
+193,Évreux-Normandie,49.02,1.15,0
+194,Fontainebleau - Avon,48.42,2.72,0
+195,Juvisy,48.68,2.38,0
+196,Laroche - Migennes,47.97,3.5,0
+197,Limoges,45.83,1.27,1
+198,Lisieux,49.13,0.23,0
+199,Longueau,49.87,2.35,0
+200,Lyon-Brotteaux,45.77,4.85,0
+201,Melun,48.52,2.65,0
+202,Montbéliard,47.5,6.8,0
+203,Morcenx,44.03,-0.9,0
+204,Pontarlier,46.9,6.35,0
+205,Saint-Omer (Pas-de-Calais),50.75,2.27,0
+206,Savenay,47.35,1.95,0
+207,Sens,48.2,3.27,0
+208,La Souterraine,46.23,1.48,1
+209,Vierzon,47.22,2.05,1
+210,Ruffec,46.03,0.18,1
+211,Lons-le-Saunier,46.67,5.55,1
+212,Toul,48.67,5.87,0
+213,Neufchâteau,48.35,5.68,0
+214,Culmont - Chalindrey,47.8,5.43,0
+215,Briançon,44.88,6.63,1
+216,Cahors,44.45,1.43,1
+217,Clermont-Ferrand,45.77,3.1,1
+218,Gap,44.57,6.08,1
+219,Issoudun,44.95,1.98,1
+220,Marmande,44.5,0.17,1
+221,MontDauphin,44.67,6.62,1
+222,Moulins sur Allier,46.55,3.33,1
+223,Nevers,46.98,3.15,1
+224,Riom - Chatel,45.88,3.12,1
+225,Rodez,44.35,2.58,1
+226,Uzerche,45.43,1.57,1
+227,Vichy,46.12,3.43,1
+228,Luxembourg,49.6,6.13,1
+229,Monaco,43.73,7.42,1
