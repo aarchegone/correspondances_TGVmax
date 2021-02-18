@@ -6,3 +6,6 @@ Trouve les gares de correspondances pour un trajet en TGVmax
 – fichier tab_gares : donne TRUE/FALSE selon que deux gares sont connectées avec TGVmax ou pas
 
 – fichier garesmaxnumber : coordonnées d'une gare, pour la placer sur la carte
+
+
+Le site est disponible au lien suivant : https://aarchegone.shinyapps.io/Correspondance_tgvmax/
